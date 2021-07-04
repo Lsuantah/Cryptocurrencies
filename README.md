@@ -20,4 +20,5 @@ The objective of this project is to use Unsupervised Machine Learning tools such
 
 
 
+![graph](https://user-images.githubusercontent.com/75961117/124371606-764ab000-dc51-11eb-8f31-8bf427a124fd.PNG)
 
