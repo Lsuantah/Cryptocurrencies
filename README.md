@@ -16,3 +16,8 @@ The objective of this project is to use Unsupervised Machine Learning tools such
 
 
 
+![3D](https://user-images.githubusercontent.com/75961117/124371596-52876a00-dc51-11eb-8200-23da0bf27d48.PNG)
+
+
+
+
